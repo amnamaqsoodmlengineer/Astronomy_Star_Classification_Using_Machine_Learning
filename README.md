@@ -46,6 +46,7 @@ Each entry includes:
 │   └── confusion_matrix_random_forest.png
 ├── star_classification.ipynb
 └── README.md
+```
 
 ## Classifier 1: K-Nearest Neighbors (KNN)
 Key Metrics:
