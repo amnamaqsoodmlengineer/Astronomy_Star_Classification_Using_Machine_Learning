@@ -52,7 +52,7 @@ Key Metrics:
 - Accuracy: 0.93
 - Highest Recall: Class 0 (GALAXY) - 0.96
 - Lowest Recall: Class 1 (QSO) - 0.87
-![K-Nearest Neighbors](https://github.com/user-attachments/assets/b75c381f-9c13-482c-9694-4cf493ccf425)
+![K-Nearest Neighbors](images/K-Nearest Neighbors.png)
 
 
 
@@ -62,7 +62,7 @@ Key Metrics:
 - Class 2 (STAR) had the highest precision: 0.94
 - QSO had relatively lower recall: 0.83
 
-![Logistic Regression](https://github.com/user-attachments/assets/8b747838-5fa5-4ab2-8012-daccda7208ec)
+![Logistic Regression](images/Logistic Regression.png)
 
 
 ## Classifier 3: Support Vector Machine (SVM)
@@ -74,7 +74,7 @@ Key Metrics:
 - STAR detection: Perfect (Recall: 1.00, Precision: 0.99)
 - Lowest confusion overall compared to other models
 
-![Random Forest](https://github.com/user-attachments/assets/3c3ad2ce-27d9-4ee4-bbf9-bb406b910c5d)
+![Random Forest](images/Random Forest.png)
 
 
 
