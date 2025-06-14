@@ -36,16 +36,19 @@ Each entry includes:
 ## 📁 Directory Structure
 
 ```bash
-├── data/
-│   └── star_classification.csv
+Astronomy_Star_Classification_Using_Machine_Learning/
+├── Data_Preprocessing_Star_Classification.ipynb
+├── Exploratory_Data_Analysis_EDA_Star_Classification.ipynb
+├── KNN_Machine_Learning_Model_Star_Classification.ipynb
+├── Logistic_Regression_Machine_Learning_Model_Star_Classification.ipynb
+├── Random_Forest_Machine_Learning_Star_Classification.ipynb
+├── SVM_Machine_Learning_Model_Star_Classification.ipynb
+├── star_classification.csv
 ├── images/
-│   ├── class_distribution.png
-│   ├── ra_dec_plot.png
-│   ├── magnitude_histograms.png
-│   ├── boxplots_by_class.png
-│   └── confusion_matrix_random_forest.png
-├── star_classification.ipynb
+│   ├── image1.png
+│   └── image2.png
 └── README.md
+
 ```
 
 ## Classifier 1: K-Nearest Neighbors (KNN)
