@@ -52,7 +52,8 @@ Key Metrics:
 - Accuracy: 0.93
 - Highest Recall: Class 0 (GALAXY) - 0.96
 - Lowest Recall: Class 1 (QSO) - 0.87
-![image](https://github.com/user-attachments/assets/6efef840-5305-4382-add7-f97d97369ead)
+![image](https://github.com/user-attachments/assets/1df8a280-5ca9-4a59-99f3-5a1f6ee668b7)
+
 
 ## Classifier 2: Logistic Regression
 Key Metrics:
